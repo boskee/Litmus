@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-0": { "Litmus": "library/" }
+    },
+    "name": "geelweb/litmus",
+    "authors": [
+        {
+            "name": "geelweb",
+            "homepage": "https://github.com/geelweb"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
